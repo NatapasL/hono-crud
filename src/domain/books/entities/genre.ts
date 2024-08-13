@@ -1,0 +1,5 @@
+export enum Genre {
+  BIOGRAPHY = `BIOGRAPHY`,
+  HISTORY = `HISTORY`,
+  FICTION = `FICTION`
+}
